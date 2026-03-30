@@ -60,5 +60,5 @@ This project demonstrates how unsupervised learning can be used to identify patt
 ---
 
 ## 🔗 Author
-Sanjay Bhosale  
+Sakshi Bhosale  
 Machine Learning Intern
